@@ -2,3 +2,20 @@ body{
     background-color: rgb(189, 253, 253);
    
 }
+.Roll{
+    position: absolute;
+    height: 50px;
+    width: 70px;
+    margin-left: 115vh;
+    margin-top: 50vh;
+}
+.p{
+     position: absolute;
+    margin-left: 113vh;
+    margin-top: 45vh;
+} 
+.result{
+     position: absolute;
+    margin-left: 113vh;
+    margin-top: 40vh;
+}
